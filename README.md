@@ -28,14 +28,16 @@
 
 <img src="github images//movie-page.JPG" alt="image">
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+There are many great movie apps available on internet developed by many experienced developers. Inspiring from them I also tried to develop a simple movie app that somehow demonstrate different popular and trending movies and tv shows worldwide, the cast and crew of those movies and shows and also top rated list of actors. 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+App Story:
+* The App is built for learning purpose and for boosting my web development skills specially in Laravel.
+* The Data used in this app is fetch from themoviedb Restful API. 
+* You App mainly focuses on DRY principles of Web Development. :
+* I enjoyed it's development smile:
+
+Of course, no one perfect and I feel myself still in learning phase of software development. There might be any zig zag flow of data and any bugs in this app. Feel free to create issues if you find any bug or have some suggestion
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
@@ -101,20 +103,28 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the my own License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/nomanmajeed986) - nomanmajeed986@gmail.com
+Numan Malik - [@twitter](https://twitter.com/nomanmajeed986) - nomanmajeed986@gmail.com
 
 Project Link: [https://github.com/nomanmajeed/laraflix](https://github.com/nomanmajeed/laraflix)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [AplineJS](https://github.com/alpinejs/alpine)
+* [TailwindCSS](https://tailwindcss.com)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
+* [Font Awesome](https://fontawesome.com)
+
+<!-- ACKNOWLEDGEMENTS 
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -127,7 +137,7 @@ Project Link: [https://github.com/nomanmajeed/laraflix](https://github.com/noman
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
+-->
 
 
 
