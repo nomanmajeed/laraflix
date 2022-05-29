@@ -79,7 +79,7 @@ Distributed under the my own License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Numan Malik - [@twitter](https://twitter.com/nomanmajeed986) - nomanmajeed986@gmail.com
+Noman Majeed - [@twitter](https://twitter.com/nomanmajeed986) - nomanmajeed986@gmail.com
 
 Project Link: [https://github.com/nomanmajeed/laraflix](https://github.com/nomanmajeed/laraflix)
 
